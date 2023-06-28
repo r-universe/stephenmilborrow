@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "earth"]
 	path = earth
 	url = https://github.com/cran/earth
-	shallow = true
-	registered = true
 [submodule "plotmo"]
 	path = plotmo
 	url = https://github.com/cran/plotmo
-	shallow = true
-	registered = true
 [submodule "plotpc"]
 	path = plotpc
 	url = https://github.com/cran/plotpc
-	shallow = true
-	registered = true
 [submodule "rpart.plot"]
 	path = rpart.plot
 	url = https://github.com/cran/rpart.plot
-	shallow = true
-	registered = true
